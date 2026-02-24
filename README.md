@@ -13,8 +13,8 @@ I like turning repeated operations into tools, and turning production problems i
 </p>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=noshenxian&show_icons=true&include_all_commits=true&count_private=false&hide_border=true" alt="Sean's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noshenxian&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=noshenxian&theme=github" alt="Sean's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noshenxian&theme=github" alt="Top languages" />
 </p>
 
 ## Focus Areas
