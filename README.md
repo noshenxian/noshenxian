@@ -1,10 +1,10 @@
 # Sean Lee (`noshenxian`)
 
-Cloud-native infrastructure engineer focused on `Kubernetes`, `OpenResty/Nginx`, `WAF`, and automation.
+Engineer working at the intersection of `LLMs`, `Prompt Engineering`, `Software Engineering`, and infrastructure automation.
 
-I like turning repeated operations into tools, and turning production problems into reusable engineering patterns.
+My background is in cloud-native infrastructure, `OpenResty` / `Nginx`, `WAF`, and operational tooling. Lately, I have been focusing more on how AI changes software delivery: the engineer's job is moving from simply writing code to defining problems, orchestrating agents, and maintaining a high quality bar.
 
-## GitHub Stats
+## GitHub Snapshot
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=noshenxian&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -17,52 +17,59 @@ I like turning repeated operations into tools, and turning production problems i
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noshenxian&theme=github" alt="Top languages" />
 </p>
 
-## Focus Areas
+## What I Work On
 
-- Cloud-native infrastructure and Kubernetes operations
-- OpenResty / Nginx gateway engineering
-- WAF and edge security hardening
-- Prometheus-based observability setup
-- Python automation for daily engineering workflows
+- `AI & LLMs`: prompt engineering, agent workflows, AI-assisted development
+- `Software Engineering`: scalable architecture, practical engineering patterns, developer productivity
+- `Engineering Management`: technical decision-making, team effectiveness, engineering culture
+- `Cloud-native Systems`: Kubernetes operations, gateway engineering, automation, observability
 
-## Architecture Keyword Matrix
+## What I Share
 
-| Domain | Keywords | What I Usually Work On |
-| --- | --- | --- |
-| Gateway / Edge | `OpenResty`, `Nginx`, `Lua` | routing, cache policies, request handling, performance tuning |
-| Security | `WAF`, `ModSecurity`, rule-based defense | edge protection, policy tuning, operational rollout |
-| Cloud Native | `Kubernetes`, `Docker`, `ArgoCD` | deployment workflows, cluster tooling, platform practices |
-| Observability | `Prometheus` | quick monitoring stack setup and operational visibility |
-| Automation | `Python`, shell scripts | internal tools, repetitive task automation, workflow efficiency |
+I write and share ideas around:
 
-## Selected Public Projects
+- how `LLMs` are changing software engineering
+- prompt engineering and agent-driven workflows
+- engineering judgment, architecture, and execution quality
+- engineering management, team effectiveness, and technical culture
+- learning systems, mental models, and long-term growth
 
-- [`openresty-cache`](https://github.com/noshenxian/openresty-cache)  
-  Multi-level cache management system built with OpenResty (`Nginx + Lua`), with management capabilities and a visual UI for high-traffic websites / API services.
+## How I Think
 
-- [`ucap-waf-openresty`](https://github.com/noshenxian/ucap-waf-openresty)  
-  WAF engineering practice based on `OpenResty + ModSecurity`, focused on gateway-layer protection and operability.
+- Build systems that are maintainable, observable, and reusable
+- Prefer automation over repetitive manual work
+- Treat engineering as a mix of product judgment, system design, and execution discipline
+- Use AI as a force multiplier, but keep humans responsible for problem framing and quality control
 
-- [`ucap-prometheus`](https://github.com/noshenxian/ucap-prometheus)  
-  `docker-compose` based Prometheus stack setup for quickly bootstrapping monitoring environments.
+## Why I Write
 
-- [`k8speixun`](https://github.com/noshenxian/k8speixun)  
-  Kubernetes learning/training/practice notes and materials, oriented toward cloud-native onboarding and knowledge consolidation.
+I am more interested in sharing frameworks, patterns, and decision-making than in just listing tools or shipping isolated demos.
 
-- [`work-tools`](https://github.com/noshenxian/work-tools)  
-  A collection of work scripts and small tools (mainly `Python`) for efficiency and reducing repetitive work.
+Most of the work I care about today happens inside real teams, real systems, and private projects. That means I cannot always publish the code, but I can still share the thinking behind it: what changed, why it mattered, what trade-offs were involved, and how I would approach similar problems again.
 
-## Engineering Style
+## Writing
 
-- Prefer maintainable, observable, and reusable solutions
-- Favor standardization and automation over manual operations
-- Balance performance, stability, and rollout cost
+You will mostly find me writing about:
 
-## Links
+- `LLMs`, prompt engineering, and AI-native workflows
+- software engineering and architecture
+- engineering management and team effectiveness
+- learning, cognition, and long-term growth
+
+## Connect
 
 - GitHub: <https://github.com/noshenxian>
-- Blog: <https://blog.noshenxian.win>
+- Blog: <https://noshenxian.win>
+- X: <https://x.com/Mummy116062074>
 
 ---
 
-If you're working on cloud-native infra, gateway performance optimization, or OpenResty / WAF engineering, feel free to connect.
+If you are interested in AI-assisted engineering, modern software practice, or thoughtful technical writing, feel free to connect.
+
+## 中文简介
+
+我目前主要关注 `LLM`、Prompt Engineering、软件工程和工程管理，也持续思考 AI 对软件开发方式带来的改变。
+
+我过去的背景偏云原生基础设施、`OpenResty / Nginx`、`WAF` 和工程自动化；现在更关心的是，工程师如何在 AI 时代重新定义自己的价值: 不只是写代码，而是定义问题、组织 Agent、建立流程，并对质量负责。
+
+我更希望通过分享方法论、思考框架和真实实践中的取舍，来输出长期有价值的内容。由于不少正在推进的项目属于私有环境，不方便公开代码，所以这里会更偏向写作、观点和经验总结。
